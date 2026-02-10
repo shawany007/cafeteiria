@@ -1,0 +1,12 @@
+.container{
+    font-size: 25px;
+}
+.banner{
+    height: 400px;
+    width: 850px;
+    background-image: url("./acss/banner.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
